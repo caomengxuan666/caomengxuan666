@@ -1,11 +1,11 @@
-<h1 align="center"> <a cmx="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);梦轩同学祝您今天愉快!&center=true&size=27"> </a> </h1>
-<a cmx="https://github.com/caomengxuan666//computer-vision-in-action">
-    <img align="right" src="https://komarev.com/ghpvc/?username=CMX&label=Visitors&color=red&style=flat&logo=github" alt="gtihub-visitors" />
+<h1 align="center"> <a caomengxuan666="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);梦轩同学祝您今天愉快!&center=true&size=27"> </a> </h1>
+<a caomengxuan666="https://github.com/caomengxuan666//computer-vision-in-action">
+    <img align="right" src="https://komarev.com/ghpvc/?username=caomengxuan666&label=Visitors&color=red&style=flat&logo=github" alt="gtihub-visitors" />
 </a>
  
-## Hi, 👋  I'm <a cmx="https://github.com/caomengxuan666/">CMX (梦轩)</a>
+## Hi, 👋  I'm <a caomengxuan666="https://github.com/caomengxuan666/">caomengxuan666 (梦轩)</a>
  
-<img align="right" alt="GIF" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="84" title="Say HI"> <details><summary>(Click to expand) <em><b>I love connecting with different people</b> so if you want to <a cmx="https://voup.cn" >say <b>"hi" </b></a>, <b>I'll be happy to meet you more!</b> : )</em></summary>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="84" title="Say HI"> <details><summary>(Click to expand) <em><b>I love connecting with different people</b> so if you want to <a caomengxuan666="https://voup.cn" >say <b>"hi" </b></a>, <b>I'll be happy to meet you more!</b> : )</em></summary>
  
 <!--my introduction start-->
     
@@ -28,53 +28,53 @@
 <br>
  
 <p align="center">
-  <a cmx="https://github.com/caomengxuan666/" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=CMX&title_color=333&text_color=777" alt="CMX's Stats" >
+  <a caomengxuan666="https://github.com/caomengxuan666/" class="rich-diff-level-one">
+    <img src="https://github-readme-stats.vercel.app/api?username=caomengxuan666&title_color=333&text_color=777" alt="caomengxuan666's Stats" >
     <!-- &hide=issues
-    <img src="https://github-readme-stats.vercel.app/api?username=CMX&hide=issues&title_color=333&text_color=777" alt="CMX's Stats" >
+    <img src="https://github-readme-stats.vercel.app/api?username=caomengxuan666&hide=issues&title_color=333&text_color=777" alt="caomengxuan666's Stats" >
     -->
   </a>
 </p>
  
 <p align="center">
-  <a cmx= "https://voup.cn/wp-content/uploads/2023/06/voup-weixing.jpg" target="_blank" alt="WeChat" title="WeChat">
+  <a caomengxuan666= "https://voup.cn/wp-content/uploads/2023/06/voup-weixing.jpg" target="_blank" alt="WeChat" title="WeChat">
     <img src="https://img.icons8.com/ios-filled/50/000000/weixing.png" width="28px"/>
   </a>
   &emsp;
  
-  <a cmx="https://space.bilibili.com/275728029" target="_blank" alt="Bilibili" title="Bilibili">
+  <a caomengxuan666="https://space.bilibili.com/275728029" target="_blank" alt="Bilibili" title="Bilibili">
     <img src="https://user-images.githubusercontent.com/29084184/166415345-91925d37-c66f-448f-8d75-c8355fe0b692.png" width="30px"/>
   </a>
   &emsp;
-  <a cmx= "https://voup.cn" target="_blank" alt="Instagram" title="Instagram">
+  <a caomengxuan666= "https://voup.cn" target="_blank" alt="Instagram" title="Instagram">
     <img src="https://voup.cn/wp-content/uploads/2023/06/icons8-log-cabin-32.png" width="28px"/>
   </a>
   &emsp;
-      <a cmx="https://blog.csdn.net/HHHHHHHHII" target="_blank" alt="CSDN" title="CSDN">
+      <a caomengxuan666="https://blog.csdn.net/HHHHHHHHII" target="_blank" alt="CSDN" title="CSDN">
     <img src="https://img.icons8.com/material/48/000000/csdn.png" width="30px"/>
   </a>
   &emsp;
-     <a cmx="https://www.zhihu.com/people/mei-yi-tian-wei-ming-tian-33-52" target="_blank" alt="Zhihu" title="Zhihu">
+     <a caomengxuan666="https://www.zhihu.com/people/mei-yi-tian-wei-ming-tian-33-52" target="_blank" alt="Zhihu" title="Zhihu">
     <img src="https://img.icons8.com/material-two-tone/50/000000/zhihu.png" width="28px"/>
   </a>
   &emsp;
   <br><br>
   <strong>Check out my work below!</strong>
   <br><br>
-  <a cmx="https://github.com/caomengxuan666/">
-    <img src="https://badges.strrl.dev/visits/CMX/CMX?style=flat-square&color=black&logo=github">
+  <a caomengxuan666="https://github.com/caomengxuan666/">
+    <img src="https://badges.strrl.dev/visits/caomengxuan666/caomengxuan666?style=flat-square&color=black&logo=github">
   </a>
-  <a cmx="https://github.com/caomengxuan666/">
-    <img src="https://badges.strrl.dev/years/CMX?style=flat-square&color=black&logo=github">
+  <a caomengxuan666="https://github.com/caomengxuan666/">
+    <img src="https://badges.strrl.dev/years/caomengxuan666?style=flat-square&color=black&logo=github">
   </a>
-  <a cmx="https://github.com/caomengxuan666/?tab=repositories">
-    <img src="https://badges.strrl.dev/repos/CMX?style=flat-square&color=black&logo=github">
+  <a caomengxuan666="https://github.com/caomengxuan666/?tab=repositories">
+    <img src="https://badges.strrl.dev/repos/caomengxuan666?style=flat-square&color=black&logo=github">
   </a>
-  <a cmx="https://gist.github.com/CMX">
-    <img src="https://badges.strrl.dev/gists/CMX?style=flat-square&color=black&logo=github">
+  <a caomengxuan666="https://gist.github.com/caomengxuan666">
+    <img src="https://badges.strrl.dev/gists/caomengxuan666?style=flat-square&color=black&logo=github">
   </a>
-  <a cmx="https://github.com/caomengxuan666/">
-    <img src="https://badges.strrl.dev/commits/monthly/CMX?style=flat-square&color=black&logo=github">
+  <a caomengxuan666="https://github.com/caomengxuan666/">
+    <img src="https://badges.strrl.dev/commits/monthly/caomengxuan666?style=flat-square&color=black&logo=github">
   </a>
 </p>
  
@@ -87,11 +87,11 @@
 <img align="right" width="250" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" />
  
 <!-- START_SECTION:brain -->
-* <a cmx='https://github.com/caomengxuan666/' target='_blank'>empty</a> - 2023-09-1
-* <a cmx='https://github.com/caomengxuan666/' target='_blank'>empty</a> - 2023-09-1
-* <a cmx='https://github.com/caomengxuan666/' target='_blank'>empty</a> - 2023-09-1
-* <a cmx='http://welcome.voup.c' target='_blank'>empty</a> - 2023-09-1
-* <a cmx='http://welcome.voup.c' target='_blank'>empty</a> - 2023-09-1
+* <a caomengxuan666='https://github.com/caomengxuan666/' target='_blank'>empty</a> - 2023-09-1
+* <a caomengxuan666='https://github.com/caomengxuan666/' target='_blank'>empty</a> - 2023-09-1
+* <a caomengxuan666='https://github.com/caomengxuan666/' target='_blank'>empty</a> - 2023-09-1
+* <a caomengxuan666='http://welcome.voup.c' target='_blank'>empty</a> - 2023-09-1
+* <a caomengxuan666='http://welcome.voup.c' target='_blank'>empty</a> - 2023-09-1
 <!-- END_SECTION:brain -->
  
 </td></tr>
@@ -103,10 +103,10 @@
 <img align="right" width="250" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" />
  
 <!-- START_SECTION:douban -->
-* <a cmx='https://www.bing.com/search?q=%E8%80%83%E7%A0%94%E8%AF%8D%E6%B1%87%E9%97%AA%E8%BF%87' target='_blank'>最近在学github主页制作</a> 🌟🌟🌟🌟🌟 力荐- 2023-06-6
-* <a cmx='https://www.bing.com/search?q=%E5%BC%A0%E5%AE%87%E8%80%83%E7%A0%94%E6%95%B0%E5%AD%A6&qs=n&form=QBRE&sp=-1&lq=0&pq=%E5%BC%A0%E5%AE%87%E8%80%83%E7%A0%94%E6%95%B0%E5%AD%A6&sc=10-6&sk=&cvid=69AADEED0BDA40CEAEA6681A39320017&ghsh=0&ghacc=0&ghpl=' target='_blank'>最近在学湖科大计算机网络</a> 🌟🌟🌟🌟🌟 力荐- 2023-03-07
-* <a cmx='https://search.bilibili.com/all?keyword=%E7%8E%8B%E9%81%93%E8%80%83%E7%A0%94' target='_blank'>最近在玩LOL</a> 🌟🌟🌟🌟🌟 力荐- 2023-03-07
-* <a cmx='http://movie.douban.com/subject/1292052/' target='_blank'>看完一掷千金</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
+* <a caomengxuan666='https://www.bing.com/search?q=%E8%80%83%E7%A0%94%E8%AF%8D%E6%B1%87%E9%97%AA%E8%BF%87' target='_blank'>最近在学github主页制作</a> 🌟🌟🌟🌟🌟 力荐- 2023-06-6
+* <a caomengxuan666='https://www.bing.com/search?q=%E5%BC%A0%E5%AE%87%E8%80%83%E7%A0%94%E6%95%B0%E5%AD%A6&qs=n&form=QBRE&sp=-1&lq=0&pq=%E5%BC%A0%E5%AE%87%E8%80%83%E7%A0%94%E6%95%B0%E5%AD%A6&sc=10-6&sk=&cvid=69AADEED0BDA40CEAEA6681A39320017&ghsh=0&ghacc=0&ghpl=' target='_blank'>最近在学湖科大计算机网络</a> 🌟🌟🌟🌟🌟 力荐- 2023-03-07
+* <a caomengxuan666='https://search.bilibili.com/all?keyword=%E7%8E%8B%E9%81%93%E8%80%83%E7%A0%94' target='_blank'>最近在玩LOL</a> 🌟🌟🌟🌟🌟 力荐- 2023-03-07
+* <a caomengxuan666='http://movie.douban.com/subject/1292052/' target='_blank'>看完一掷千金</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
  
  
 <!-- END_SECTION:douban -->
