@@ -2,7 +2,8 @@
 <a caomengxuan666="https://github.com/caomengxuan666//computer-vision-in-action">
     <img align="right" src="https://komarev.com/ghpvc/?username=caomengxuan666&label=Visitors&color=red&style=flat&logo=github" alt="gtihub-visitors" />
 </a>
- 
+ ![](https://github-readme-stats.vercel.app/api?username=caomengxuan666&theme=dark)
+
 ## Hi, 👋  I'm <a caomengxuan666="https://github.com/caomengxuan666/">caomengxuan666 (梦轩)</a>
  
 <img align="right" alt="GIF" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="84" title="Say HI"> <details><summary>(Click to expand) <em><b>I love connecting with different people</b> so if you want to <a caomengxuan666="https://voup.cn" >say <b>"hi" </b></a>, <b>I'll be happy to meet you more!</b> : )</em></summary>
@@ -87,8 +88,6 @@
 <img align="right" width="250" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" />
  
 <!-- START_SECTION:brain -->
-* <a caomengxuan666='https://github.com/caomengxuan666/' target='_blank'>empty</a> - 2023-09-1
-* <a caomengxuan666='https://github.com/caomengxuan666/' target='_blank'>empty</a> - 2023-09-1
 * <a caomengxuan666='https://github.com/caomengxuan666/' target='_blank'>https://ssl.ptlogin2.qq.com/jump?ptlang=2052&clientuin=2507560089&clientkey=59FEAEF97725BAEF8038F7145B0D3F7E26C992BB44303FDCB82CDBD069C9C165&u1=https:%2F%2Fuser.qzone.qq.com%2F2507560089%2Finfocenter&source=panelstar</a> - 2023-09-1
 <!-- END_SECTION:brain -->
  
