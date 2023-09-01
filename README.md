@@ -9,11 +9,11 @@
  
 <!--my introduction start-->
     
-- 🔭 empty
-- 🌱 empty
+- 🔭 LOL
+- 🌱 Human High Standard Single Male
 - 🤔 Only two things make me moved. 
-  1. empty
-  2. empty
+  1. Coding
+  2. Exercising
 - ❤️ I like eating 🍉, raising 🐓, playing 🏓, sleeping in 🛌 and 📺 [ACGN]
 - 💬 Be free to ask me about anything [here](https://github.com/caomengxuan666/).
  
