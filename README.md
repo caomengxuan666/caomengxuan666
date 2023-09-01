@@ -5,9 +5,10 @@
 
 
 ## Hi, 👋  I'm <a caomengxuan666="https://github.com/caomengxuan666/">caomengxuan666 (梦轩)</a>
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sun0225SUN&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caomengxuan666&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="84" title="Say HI"> <details><summary>(Click to expand) <em><b>I love connecting with different people</b> so if you want to <a caomengxuan666="https://voup.cn" >say <b>"hi" </b></a>, <b>I'll be happy to meet you more!</b> : )</em></summary>
- 
+ <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=caomengxuan666" /> </div>
+    <div align="center"> <img src="https://metrics.lecoq.io/caomengxuan666?template=classic&config.timezone=Asia%2FShanghai"> </div>
 <!--my introduction start-->
     
 - 🔭 LOL
