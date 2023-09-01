@@ -2,10 +2,10 @@
 <a caomengxuan666="https://github.com/caomengxuan666//computer-vision-in-action">
     <img align="right" src="https://komarev.com/ghpvc/?username=caomengxuan666&label=Visitors&color=red&style=flat&logo=github" alt="gtihub-visitors" />
 </a>
- ![](https://github-readme-stats.vercel.app/api?username=caomengxuan666&theme=dark)
+
 
 ## Hi, 👋  I'm <a caomengxuan666="https://github.com/caomengxuan666/">caomengxuan666 (梦轩)</a>
- 
+  ![](https://github-readme-stats.vercel.app/api?username=caomengxuan666&theme=dark)
 <img align="right" alt="GIF" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="84" title="Say HI"> <details><summary>(Click to expand) <em><b>I love connecting with different people</b> so if you want to <a caomengxuan666="https://voup.cn" >say <b>"hi" </b></a>, <b>I'll be happy to meet you more!</b> : )</em></summary>
  
 <!--my introduction start-->
