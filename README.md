@@ -89,9 +89,7 @@
 <!-- START_SECTION:brain -->
 * <a caomengxuan666='https://github.com/caomengxuan666/' target='_blank'>empty</a> - 2023-09-1
 * <a caomengxuan666='https://github.com/caomengxuan666/' target='_blank'>empty</a> - 2023-09-1
-* <a caomengxuan666='https://github.com/caomengxuan666/' target='_blank'>empty</a> - 2023-09-1
-* <a caomengxuan666='http://welcome.voup.c' target='_blank'>empty</a> - 2023-09-1
-* <a caomengxuan666='http://welcome.voup.c' target='_blank'>empty</a> - 2023-09-1
+* <a caomengxuan666='https://github.com/caomengxuan666/' target='_blank'>https://ssl.ptlogin2.qq.com/jump?ptlang=2052&clientuin=2507560089&clientkey=59FEAEF97725BAEF8038F7145B0D3F7E26C992BB44303FDCB82CDBD069C9C165&u1=https:%2F%2Fuser.qzone.qq.com%2F2507560089%2Finfocenter&source=panelstar</a> - 2023-09-1
 <!-- END_SECTION:brain -->
  
 </td></tr>
