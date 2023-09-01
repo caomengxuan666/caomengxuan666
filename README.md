@@ -1,4 +1,4 @@
-<h1 align="center"> <a caomengxuan666="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);梦轩同学祝您今天愉快!&center=true&size=27"> </a> </h1>
+<h1 align="center"> <a caomengxuan666="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=std::println(%22Hello%2C%20World!%22);梦轩同学祝您今天愉快!&center=true&size=27"> </a> </h1>
 <a caomengxuan666="https://github.com/caomengxuan666//computer-vision-in-action">
     <img align="right" src="https://komarev.com/ghpvc/?username=caomengxuan666&label=Visitors&color=red&style=flat&logo=github" alt="gtihub-visitors" />
 </a>
