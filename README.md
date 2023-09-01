@@ -15,7 +15,7 @@
   1. empty
   2. empty
 - ❤️ I like eating 🍉, raising 🐓, playing 🏓, sleeping in 🛌 and 📺 [ACGN]
-- 💬 Be free to ask me about anything [here](https://github.com/caomengxuan666/issues).
+- 💬 Be free to ask me about anything [here](https://github.com/caomengxuan666/).
  
 ---
 </details>
