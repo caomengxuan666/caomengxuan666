@@ -3,13 +3,14 @@
     <img align="right" src="https://komarev.com/ghpvc/?username=caomengxuan666&label=Visitors&color=red&style=flat&logo=github" alt="gtihub-visitors" />
 </a>
 
+# <em><b>这里是曹梦轩的GITHUB主页</b>————————欢迎光临—————————— <a caomengxuan666="https://voup.cn" ><b>"welcome!" </b></a>, <b>感谢你的来访和支持！ =-=</b>)</em>
 ## Hi, 👋  I'm <a caomengxuan666="https://github.com/caomengxuan666/">caomengxuan666 (梦轩)</a>
 
-#### 芝士我最喜欢的语言
+
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caomengxuan666&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
  <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=caomengxuan666" /> </div>
 
-#### 芝士我的提交情况
+
 <img align="right" alt="GIF" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="84" title="Say HI"> <details><summary>(Click to expand) <em><b>I love connecting with different people</b> so if you want to <a caomengxuan666="https://voup.cn" >say <b>"hi" </b></a>, <b>I'll be happy to meet you more!</b> : )</em></summary>
 
 
@@ -26,15 +27,17 @@
 ---
 </details>
 
-  ### 这里可是我cmx的神奇❤️❤️❤️妙妙屋❤️❤️❤️
+<font face="微软雅黑" color=yellow size=40 style=background:green>>曹梦轩在此</font>
+  
   ✨ 站主目前为巢湖学院22计科学生，小小菜鸡。喜欢编程，健身和剪辑。该站存放本人的一些代码程序，顺便记录一下自己的成长历程
   如果你发现有的仓库怎么写了一半没了，不要慌张，那是我在睡觉，我会持续保证仓库的更新
   站主是一个单身狗，欢迎...单身狗们来和我做朋友
 
  
 <!--my introduction end -->
- #### 芝士我的评分
+ 
 <br>
+ 
 <p align="center">
   <a caomengxuan666="https://github.com/caomengxuan666/" class="rich-diff-level-one">
     <img src="https://github-readme-stats.vercel.app/api?username=caomengxuan666&title_color=333&text_color=777" alt="caomengxuan666's Stats" >
