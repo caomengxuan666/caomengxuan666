@@ -1,135 +1,89 @@
-<h1 align="center"> <a caomengxuan666="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=std::println(%22Hello%2C%20World!%22);梦轩同学祝您今天愉快!&center=true&size=27"> </a> </h1>
-<a caomengxuan666="https://github.com/caomengxuan666//computer-vision-in-action">
-    <img align="right" src="https://komarev.com/ghpvc/?username=caomengxuan666&label=Visitors&color=red&style=flat&logo=github" alt="gtihub-visitors" />
-</a>
-
-  <!-- knock code pictures 敲代码的图片 -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="225px" />
-    <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
-  </picture>
-
-  <!-- for beauty 留个空行好看点 -->
-  <div>&nbsp;</div>
-
-
-</div>
-
-# <em><b>这里是曹梦轩的GITHUB主页</b>————————欢迎光临—————————— <a caomengxuan666="https://voup.cn" ><b>"welcome!" </b></a>, <b>感谢你的来访和支持！ =-=</b>)</em>
-## Hi, 👋  I'm <a caomengxuan666="https://github.com/caomengxuan666/">caomengxuan666 (梦轩)</a>
-
-
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caomengxuan666&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
- <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=caomengxuan666" /> </div>
-
- 
-
-  <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-  </picture>
-
-[![caomengxuan666's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=caomengxuan666&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<img align="right" alt="GIF" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="84" title="Say HI"> <details><summary>(Click to expand) <em><b>I love connecting with different people</b> so if you want to <a caomengxuan666="https://voup.cn" >say <b>"hi" </b></a>, <b>I'll be happy to meet you more!</b> : )</em></summary>
-
-
-<!--my introduction start-->
-    
-- 🔭 LOL
-- 🌱 Human High Standard Single Male
-- 🤔 Only two things make me moved. 
-  1. Coding
-  2. Exercising
-- ❤️ I like eating 🍉, raising 🐓, playing 🏓, sleeping in 🛌 and 📺 [ACGN]
-- 💬 Be free to ask me about anything [here](https://github.com/caomengxuan666/).
- 
----
-</details>
-
-## 曹梦轩在此
-  
-  ✨ 站主是巢湖学院22计科的一名学生，喜欢cpp/rust，也会写点python.站主是一个恐怖的计算机原教旨主义者。
-<!--my introduction end -->
- 
-<br>
- 
 <p align="center">
-  <a caomengxuan666="https://github.com/caomengxuan666/" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=caomengxuan666&title_color=333&text_color=777" alt="caomengxuan666's Stats" >
-    <!-- &hide=issues
-    <img src="https://github-readme-stats.vercel.app/api?username=caomengxuan666&hide=issues&title_color=333&text_color=777" alt="caomengxuan666's Stats" >
-    -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0ea5e9,45:22c55e,100:f59e0b&text=%E6%9B%B9%E6%A2%A6%E8%BD%A9%20%7C%20caomengxuan666&fontAlign=50&fontAlignY=36&fontColor=ffffff&fontSize=36&desc=C%2B%2B%20%2F%20Rust%20%2F%20Systems%20%2F%20MCP&descAlign=50&descAlignY=58&animation=fadeIn" alt="曹梦轩 | caomengxuan666" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/caomengxuan666">
+    <img src="https://komarev.com/ghpvc/?username=caomengxuan666&label=Profile%20views&color=0ea5e9&style=flat" alt="profile views" />
+  </a>
+  <a href="https://github.com/caomengxuan666?tab=followers">
+    <img src="https://img.shields.io/github/followers/caomengxuan666?style=flat&label=Followers&color=22c55e" alt="followers" />
+  </a>
+  <a href="https://github.com/caomengxuan666?tab=repositories">
+    <img src="https://img.shields.io/badge/Public%20repos-100%2B-f59e0b?style=flat" alt="public repositories" />
+  </a>
+  <a href="https://caomengxuan666.github.io">
+    <img src="https://img.shields.io/badge/Blog-caomengxuan666.github.io-111827?style=flat" alt="blog" />
   </a>
 </p>
- 
+
 <p align="center">
-  <a caomengxuan666= "https://voup.cn/wp-content/uploads/2023/06/voup-weixing.jpg" target="_blank" alt="WeChat" title="WeChat">
-    <img src="https://img.icons8.com/ios-filled/50/000000/weixing.png" width="28px"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=0F766E&center=true&vCenter=true&width=760&lines=std%3A%3Aprintln(%22Hello%2C+World!%22)%3B;A+Linux+%26+C%2B%2B+learner+building+real+tools.;If+I+cannot+be+a+poet%2C+I+will+be+the+poem." alt="typing intro" />
+</p>
+
+## Hi, I'm 曹梦轩
+
+巢湖学院计算机科学与技术学生。主要写 C++ 和 Rust，偏爱系统编程、开发者工具、数据库、协议实现和 AI 基础设施。
+
+我喜欢把想法做成能跑、能测、能交付的工程：从 C++ MCP SDK 到 Redis-compatible database，从 Windows shell 工具到 long-context benchmark CLI。
+
+## Focus
+
+- Building MCP tooling and runtime infrastructure around C++ and Rust.
+- Writing practical systems software: networking, storage, CLI tools, SDKs, benchmarks.
+- Keeping code fast, portable, testable, and friendly to downstream users.
+- Learning Linux, modern C++, Rust, Python, and the engineering behind reliable tools.
+
+## Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,rust,python,cmake,linux,git,github,githubactions,docker,vim,vscode" alt="tech stack" />
+</p>
+
+## Featured Work
+
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [cxxmcp](https://github.com/caomengxuan666/cxxmcp) | Conformance-tested C++17 SDK for Model Context Protocol servers and clients. | C++17 |
+| [cxxmcp-gateway](https://github.com/caomengxuan666/cxxmcp-gateway) | MCP gateway and runtime management tools for the cxxmcp SDK. | C++ |
+| [ferryllm](https://github.com/caomengxuan666/ferryllm) | Universal LLM protocol middleware for OpenAI, Anthropic, Claude Code, and compatible backends. | Rust |
+| [AstraDB](https://github.com/caomengxuan666/AstraDB) | High-performance Redis-compatible database written in modern C++23. | C++23 |
+| [WinuxCmd](https://github.com/caomengxuan666/WinuxCmd) | Lightweight native Windows implementation of Linux-style commands. | C++ |
+| [longctx](https://github.com/caomengxuan666/longctx) | Long-context benchmark CLI for needle, multi-needle, and conflict tests. | Rust |
+| [cmx-blog-mcp](https://github.com/caomengxuan666/cmx-blog-mcp) | MCP server for publishing posts to a GitHub Pages blog. | C++ |
+
+## GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=caomengxuan666&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&title_color=0f766e&text_color=334155&icon_color=f59e0b" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caomengxuan666&layout=compact&hide_border=true&theme=transparent&title_color=0f766e&text_color=334155&langs_count=8" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=caomengxuan666&hide_border=true&background=00000000&stroke=0EA5E9&ring=22C55E&fire=F59E0B&currStreakNum=0F172A&sideNums=0F172A&currStreakLabel=0F766E&sideLabels=475569&dates=64748B" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=caomengxuan666&bg_color=ffffff&color=334155&line=0ea5e9&point=f59e0b&area=true&area_color=dcfce7&hide_border=true" alt="GitHub activity graph" />
+</p>
+
+## Connect
+
+<p>
+  <a href="https://caomengxuan666.github.io">
+    <img src="https://img.shields.io/badge/Blog-111827?style=for-the-badge&logo=githubpages&logoColor=white" alt="blog" />
   </a>
-  &emsp;
- 
-  <a caomengxuan666="https://space.bilibili.com/275728029" target="_blank" alt="Bilibili" title="Bilibili">
-    <img src="https://user-images.githubusercontent.com/29084184/166415345-91925d37-c66f-448f-8d75-c8355fe0b692.png" width="30px"/>
+  <a href="https://space.bilibili.com/275728029">
+    <img src="https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" alt="bilibili" />
   </a>
-  &emsp;
-  <a caomengxuan666= "https://voup.cn" target="_blank" alt="Instagram" title="Instagram">
-    <img src="https://voup.cn/wp-content/uploads/2023/06/icons8-log-cabin-32.png" width="28px"/>
+  <a href="https://blog.csdn.net/HHHHHHHHII">
+    <img src="https://img.shields.io/badge/CSDN-FC5531?style=for-the-badge&logo=csdn&logoColor=white" alt="csdn" />
   </a>
-  &emsp;
-      <a caomengxuan666="https://blog.csdn.net/HHHHHHHHII" target="_blank" alt="CSDN" title="CSDN">
-    <img src="https://img.icons8.com/material/48/000000/csdn.png" width="30px"/>
-  </a>
-  &emsp;
-     <a caomengxuan666="https://www.zhihu.com/people/mei-yi-tian-wei-ming-tian-33-52" target="_blank" alt="Zhihu" title="Zhihu">
-    <img src="https://img.icons8.com/material-two-tone/50/000000/zhihu.png" width="28px"/>
-  </a>
-  &emsp;
-  <br><br>
-  <strong>Check out my work below!</strong>
-  <br><br>
-  <a caomengxuan666="https://github.com/caomengxuan666/">
-    <img src="https://badges.strrl.dev/visits/caomengxuan666/caomengxuan666?style=flat-square&color=black&logo=github">
-  </a>
-  <a caomengxuan666="https://github.com/caomengxuan666/">
-    <img src="https://badges.strrl.dev/years/caomengxuan666?style=flat-square&color=black&logo=github">
-  </a>
-  <a caomengxuan666="https://github.com/caomengxuan666/?tab=repositories">
-    <img src="https://badges.strrl.dev/repos/caomengxuan666?style=flat-square&color=black&logo=github">
-  </a>
-  <a caomengxuan666="https://gist.github.com/caomengxuan666">
-    <img src="https://badges.strrl.dev/gists/caomengxuan666?style=flat-square&color=black&logo=github">
-  </a>
-  <a caomengxuan666="https://github.com/caomengxuan666/">
-    <img src="https://badges.strrl.dev/commits/monthly/caomengxuan666?style=flat-square&color=black&logo=github">
+  <a href="https://www.zhihu.com/people/mei-yi-tian-wei-ming-tian-33-52">
+    <img src="https://img.shields.io/badge/Zhihu-056DE8?style=for-the-badge&logo=zhihu&logoColor=white" alt="zhihu" />
   </a>
 </p>
- 
-<h2></h2>
- 
-<img align="right" alt="GIF" src="OctoCharmve/code.gif" width="343" height="220" title="Do what you like, and do it best!"> &nbsp;&nbsp;&nbsp;&nbsp;
- 
-### 🧠 Web and code
- 
-<img align="right" width="250" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" />
- 
-<!-- START_SECTION:brain -->
-* <a caomengxuan666='https://github.com/caomengxuan666/' target='_blank'>https://ssl.ptlogin2.qq.com/jump?ptlang=2052&clientuin=2507560089&clientkey=59FEAEF97725BAEF8038F7145B0D3F7E26C992BB44303FDCB82CDBD069C9C165&u1=https:%2F%2Fuser.qzone.qq.com%2F2507560089%2Finfocenter&source=panelstar</a> - 2023-09-1
-<!-- END_SECTION:brain -->
- 
-</td></tr>
- 
-<tr><td>
- 
-### 🤾‍♂️ Funny Soul
- 
-<img align="right" width="250" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" />
- 
- 
-<!-- END_SECTION:douban -->
- 
-</td></tr>
- 
-<tr><td>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:0ea5e9,45:22c55e,100:f59e0b" alt="footer" />
+</p>
