@@ -73,15 +73,6 @@
   <a href="https://caomengxuan666.github.io">
     <img src="https://img.shields.io/badge/Blog-111827?style=for-the-badge&logo=githubpages&logoColor=white" alt="blog" />
   </a>
-  <a href="https://space.bilibili.com/275728029">
-    <img src="https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" alt="bilibili" />
-  </a>
-  <a href="https://blog.csdn.net/HHHHHHHHII">
-    <img src="https://img.shields.io/badge/CSDN-FC5531?style=for-the-badge&logo=csdn&logoColor=white" alt="csdn" />
-  </a>
-  <a href="https://www.zhihu.com/people/mei-yi-tian-wei-ming-tian-33-52">
-    <img src="https://img.shields.io/badge/Zhihu-056DE8?style=for-the-badge&logo=zhihu&logoColor=white" alt="zhihu" />
-  </a>
 </p>
 
 <p align="center">
