@@ -1,0 +1,32 @@
+name: Profile assets
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "18 2 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Generate SVG assets
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/generate_profile_assets.py
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/language-footprint.svg assets/engineering-snapshot.svg
+          git diff --cached --quiet || git commit -m "Update generated profile assets"
+          git push

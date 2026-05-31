@@ -66,19 +66,29 @@ My current work is less about isolated demos and more about connected engineerin
 | [libgossip](https://github.com/caomengxuan666/libgossip) | C++17 gossip protocol implementation for decentralized distributed systems. | C++17, networking |
 | [CMakeHub](https://github.com/caomengxuan666/CMakeHub) | CLI for browsing, using, and caching curated CMake modules. | CMake, Python |
 
+## Engineering Highlights
+
+- Built a visible Windows/Linux developer-tooling line around `WinuxCmd`, `winuxsh`, and `oh-my-winuxsh`.
+- Maintaining an MCP ecosystem in C++: SDK, gateway, examples, documentation, and publishing tools.
+- Exploring Redis-compatible storage from multiple layers: database, KV module, RESP client, and server experiments.
+- Writing LLM infrastructure beyond prompts: protocol middleware, long-context benchmarks, and agent-facing tooling.
+- Comfortable moving between low-level C/C++, Rust services, build systems, shell automation, and editor/workflow tools.
+
 ## Technical Stack
 
 <p>
   <img src="https://skillicons.dev/icons?i=cpp,c,rust,python,cmake,linux,git,github,githubactions,docker,powershell,bash,lua,typescript,vim,vscode" alt="tech stack" />
 </p>
 
-| Layer | Tools and topics |
+| Layer | Tools, protocols, and topics |
 | --- | --- |
-| Core languages | C++17/20/23, Rust, C, Python |
-| Systems | Networking, storage engines, protocol design, CLI tooling, cross-platform runtime behavior |
-| AI infrastructure | MCP, JSON-RPC, LLM gateways, protocol middleware, long-context benchmarking |
-| Build and automation | CMake, GitHub Actions, Shell, PowerShell, Docker |
-| Workflow | Linux, Windows, Neovim/Lua, VS Code extensions |
+| Core languages | C++17/20/23, Rust, C, Python, TypeScript, Lua |
+| Systems programming | Networking, concurrency, storage engines, protocol design, CLI tooling, cross-platform runtime behavior |
+| AI infrastructure | MCP, JSON-RPC, LLM gateways, OpenAI/Anthropic-compatible middleware, long-context benchmarking |
+| Data and protocols | Redis/RESP, key-value engines, HTTP, Streamable HTTP, SSE, structured serialization |
+| Build and packaging | CMake, CTest, GitHub Actions, Docker, vcpkg/Conan ecosystem, Shell, PowerShell |
+| Code quality | Conformance tests, benchmark CLIs, clang-tidy tooling, diagnostics visualization, reproducible examples |
+| Workflow | Linux, Windows, Neovim/Lua, VS Code extensions, automation scripts |
 
 ## Currently Building
 
@@ -88,15 +98,14 @@ My current work is less about isolated demos and more about connected engineerin
 - `WinuxCmd`: small native Windows command-line utilities with Linux-style ergonomics.
 - `AstraDB`: a modern C++ Redis-compatible database.
 
-## GitHub Stats
+## Engineering Snapshot
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=caomengxuan666&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&title_color=0f766e&text_color=334155&icon_color=f59e0b" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caomengxuan666&layout=compact&hide_border=true&theme=transparent&title_color=0f766e&text_color=334155&langs_count=8" alt="Top languages" />
+  <img src="./assets/engineering-snapshot.svg" alt="Engineering snapshot" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=caomengxuan666&bg_color=ffffff&color=334155&line=0ea5e9&point=f59e0b&area=true&area_color=dcfce7&hide_border=true" alt="GitHub activity graph" />
+  <img src="./assets/language-footprint.svg" alt="Language footprint" />
 </p>
 
 <p align="center">
