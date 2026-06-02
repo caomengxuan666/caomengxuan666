@@ -18,7 +18,7 @@
   <text x="46" y="106" fill="#0f172a" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="650">C++</text>
   <rect x="170" y="92" width="500" height="18" rx="9" fill="#f1f5f9"/>
   <rect x="170" y="92" width="311" height="18" rx="9" fill="#f34b7d"/>
-  <text x="690" y="106" text-anchor="end" fill="#475569" font-family="Segoe UI, Arial, sans-serif" font-size="13">62.3%</text>
+  <text x="690" y="106" text-anchor="end" fill="#475569" font-family="Segoe UI, Arial, sans-serif" font-size="13">62.2%</text>
   <text x="46" y="131" fill="#0f172a" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="650">HTML</text>
   <rect x="170" y="117" width="500" height="18" rx="9" fill="#f1f5f9"/>
   <rect x="170" y="117" width="82" height="18" rx="9" fill="#e34c26"/>
@@ -30,7 +30,7 @@
   <text x="46" y="181" fill="#0f172a" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="650">Rust</text>
   <rect x="170" y="167" width="500" height="18" rx="9" fill="#f1f5f9"/>
   <rect x="170" y="167" width="16" height="18" rx="9" fill="#dea584"/>
-  <text x="690" y="181" text-anchor="end" fill="#475569" font-family="Segoe UI, Arial, sans-serif" font-size="13">3.3%</text>
+  <text x="690" y="181" text-anchor="end" fill="#475569" font-family="Segoe UI, Arial, sans-serif" font-size="13">3.4%</text>
   <text x="46" y="206" fill="#0f172a" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="650">Python</text>
   <rect x="170" y="192" width="500" height="18" rx="9" fill="#f1f5f9"/>
   <rect x="170" y="192" width="9" height="18" rx="9" fill="#3572A5"/>
@@ -41,7 +41,7 @@
   <text x="690" y="231" text-anchor="end" fill="#475569" font-family="Segoe UI, Arial, sans-serif" font-size="13">1.4%</text>
   <text x="46" y="256" fill="#0f172a" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="650">TypeScript</text>
   <rect x="170" y="242" width="500" height="18" rx="9" fill="#f1f5f9"/>
-  <rect x="170" y="242" width="2" height="18" rx="9" fill="#3178c6"/>
+  <rect x="170" y="242" width="3" height="18" rx="9" fill="#3178c6"/>
   <text x="690" y="256" text-anchor="end" fill="#475569" font-family="Segoe UI, Arial, sans-serif" font-size="13">0.6%</text>
   <text x="46" y="281" fill="#0f172a" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="650">JavaScript</text>
   <rect x="170" y="267" width="500" height="18" rx="9" fill="#f1f5f9"/>
