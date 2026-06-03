@@ -18,7 +18,7 @@
   <text x="46" y="106" fill="#0f172a" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="650">C++</text>
   <rect x="170" y="92" width="500" height="18" rx="9" fill="#f1f5f9"/>
   <rect x="170" y="92" width="311" height="18" rx="9" fill="#f34b7d"/>
-  <text x="690" y="106" text-anchor="end" fill="#475569" font-family="Segoe UI, Arial, sans-serif" font-size="13">62.2%</text>
+  <text x="690" y="106" text-anchor="end" fill="#475569" font-family="Segoe UI, Arial, sans-serif" font-size="13">62.3%</text>
   <text x="46" y="131" fill="#0f172a" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="650">HTML</text>
   <rect x="170" y="117" width="500" height="18" rx="9" fill="#f1f5f9"/>
   <rect x="170" y="117" width="82" height="18" rx="9" fill="#e34c26"/>
@@ -26,7 +26,7 @@
   <text x="46" y="156" fill="#0f172a" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="650">C</text>
   <rect x="170" y="142" width="500" height="18" rx="9" fill="#f1f5f9"/>
   <rect x="170" y="142" width="64" height="18" rx="9" fill="#555555"/>
-  <text x="690" y="156" text-anchor="end" fill="#475569" font-family="Segoe UI, Arial, sans-serif" font-size="13">12.9%</text>
+  <text x="690" y="156" text-anchor="end" fill="#475569" font-family="Segoe UI, Arial, sans-serif" font-size="13">12.8%</text>
   <text x="46" y="181" fill="#0f172a" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="650">Rust</text>
   <rect x="170" y="167" width="500" height="18" rx="9" fill="#f1f5f9"/>
   <rect x="170" y="167" width="16" height="18" rx="9" fill="#dea584"/>
