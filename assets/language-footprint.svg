@@ -17,15 +17,15 @@
   <text x="714" y="58" text-anchor="end" fill="#ecfeff" font-family="Segoe UI, Arial, sans-serif" font-size="13">public original repos</text>
   <text x="46" y="106" fill="#0f172a" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="650">C++</text>
   <rect x="170" y="92" width="500" height="18" rx="9" fill="#f1f5f9"/>
-  <rect x="170" y="92" width="311" height="18" rx="9" fill="#f34b7d"/>
-  <text x="690" y="106" text-anchor="end" fill="#475569" font-family="Segoe UI, Arial, sans-serif" font-size="13">62.3%</text>
+  <rect x="170" y="92" width="312" height="18" rx="9" fill="#f34b7d"/>
+  <text x="690" y="106" text-anchor="end" fill="#475569" font-family="Segoe UI, Arial, sans-serif" font-size="13">62.4%</text>
   <text x="46" y="131" fill="#0f172a" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="650">HTML</text>
   <rect x="170" y="117" width="500" height="18" rx="9" fill="#f1f5f9"/>
   <rect x="170" y="117" width="82" height="18" rx="9" fill="#e34c26"/>
-  <text x="690" y="131" text-anchor="end" fill="#475569" font-family="Segoe UI, Arial, sans-serif" font-size="13">16.5%</text>
+  <text x="690" y="131" text-anchor="end" fill="#475569" font-family="Segoe UI, Arial, sans-serif" font-size="13">16.4%</text>
   <text x="46" y="156" fill="#0f172a" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="650">C</text>
   <rect x="170" y="142" width="500" height="18" rx="9" fill="#f1f5f9"/>
-  <rect x="170" y="142" width="64" height="18" rx="9" fill="#555555"/>
+  <rect x="170" y="142" width="63" height="18" rx="9" fill="#555555"/>
   <text x="690" y="156" text-anchor="end" fill="#475569" font-family="Segoe UI, Arial, sans-serif" font-size="13">12.8%</text>
   <text x="46" y="181" fill="#0f172a" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="650">Rust</text>
   <rect x="170" y="167" width="500" height="18" rx="9" fill="#f1f5f9"/>
@@ -51,9 +51,9 @@
   <rect x="170" y="292" width="500" height="18" rx="9" fill="#f1f5f9"/>
   <rect x="170" y="292" width="1" height="18" rx="9" fill="#663399"/>
   <text x="690" y="306" text-anchor="end" fill="#475569" font-family="Segoe UI, Arial, sans-serif" font-size="13">0.3%</text>
-  <text x="46" y="331" fill="#0f172a" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="650">Shell</text>
+  <text x="46" y="331" fill="#0f172a" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="650">PowerShell</text>
   <rect x="170" y="317" width="500" height="18" rx="9" fill="#f1f5f9"/>
-  <rect x="170" y="317" width="1" height="18" rx="9" fill="#89e051"/>
+  <rect x="170" y="317" width="1" height="18" rx="9" fill="#012456"/>
   <text x="690" y="331" text-anchor="end" fill="#475569" font-family="Segoe UI, Arial, sans-serif" font-size="13">0.3%</text>
   <text x="46" y="330" fill="#64748b" font-family="Segoe UI, Arial, sans-serif" font-size="13">Generated from GitHub API. Forks and archived repositories are excluded.</text>
 </svg>
