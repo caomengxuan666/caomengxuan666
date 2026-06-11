@@ -16,10 +16,10 @@
   <text x="46" y="58" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="23" font-weight="750">Engineering Snapshot</text>
   <text x="714" y="58" text-anchor="end" fill="#ecfeff" font-family="Segoe UI, Arial, sans-serif" font-size="13">caomengxuan666</text>
   <rect x="46" y="92" width="158" height="58" rx="14" fill="#f8fafc" stroke="#e2e8f0"/>
-  <text x="62" y="118" fill="#0f172a" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="750">112+</text>
+  <text x="62" y="118" fill="#0f172a" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="750">111+</text>
   <text x="62" y="138" fill="#64748b" font-family="Segoe UI, Arial, sans-serif" font-size="12">Public Repos</text>
   <rect x="222" y="92" width="158" height="58" rx="14" fill="#f8fafc" stroke="#e2e8f0"/>
-  <text x="238" y="118" fill="#0f172a" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="750">352</text>
+  <text x="238" y="118" fill="#0f172a" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="750">102</text>
   <text x="238" y="138" fill="#64748b" font-family="Segoe UI, Arial, sans-serif" font-size="12">Original Stars</text>
   <rect x="398" y="92" width="158" height="58" rx="14" fill="#f8fafc" stroke="#e2e8f0"/>
   <text x="414" y="118" fill="#0f172a" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="750">C++ / Rust</text>
@@ -32,7 +32,7 @@
   <text x="46" y="201" fill="#0f172a" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="700">LLM Tooling</text>
   <text x="244" y="201" fill="#475569" font-family="Segoe UI, Arial, sans-serif" font-size="13">ferryllm, longctx</text>
   <text x="46" y="226" fill="#0f172a" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="700">Windows/Linux DevEx</text>
-  <text x="244" y="226" fill="#475569" font-family="Segoe UI, Arial, sans-serif" font-size="13">WinuxCmd, winuxsh, oh-my-winuxsh</text>
+  <text x="244" y="226" fill="#475569" font-family="Segoe UI, Arial, sans-serif" font-size="13"></text>
   <text x="46" y="251" fill="#0f172a" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="700">Storage / Redis</text>
   <text x="244" y="251" fill="#475569" font-family="Segoe UI, Arial, sans-serif" font-size="13">AstraDB, AstraKV, resp-cli, Astra</text>
   <text x="46" y="276" fill="#0f172a" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="700">Distributed Systems</text>
