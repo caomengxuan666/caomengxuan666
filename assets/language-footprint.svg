@@ -21,7 +21,7 @@
   <text x="690" y="106" text-anchor="end" fill="#475569" font-family="Segoe UI, Arial, sans-serif" font-size="13">60.5%</text>
   <text x="46" y="131" fill="#0f172a" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="650">HTML</text>
   <rect x="170" y="117" width="500" height="18" rx="9" fill="#f1f5f9"/>
-  <rect x="170" y="117" width="89" height="18" rx="9" fill="#e34c26"/>
+  <rect x="170" y="117" width="88" height="18" rx="9" fill="#e34c26"/>
   <text x="690" y="131" text-anchor="end" fill="#475569" font-family="Segoe UI, Arial, sans-serif" font-size="13">17.8%</text>
   <text x="46" y="156" fill="#0f172a" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="650">C</text>
   <rect x="170" y="142" width="500" height="18" rx="9" fill="#f1f5f9"/>
