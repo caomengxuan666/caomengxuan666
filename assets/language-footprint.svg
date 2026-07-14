@@ -34,7 +34,7 @@
   <text x="46" y="206" fill="#0f172a" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="650">Python</text>
   <rect x="170" y="192" width="500" height="18" rx="9" fill="#f1f5f9"/>
   <rect x="170" y="192" width="9" height="18" rx="9" fill="#3572A5"/>
-  <text x="690" y="206" text-anchor="end" fill="#475569" font-family="Segoe UI, Arial, sans-serif" font-size="13">1.9%</text>
+  <text x="690" y="206" text-anchor="end" fill="#475569" font-family="Segoe UI, Arial, sans-serif" font-size="13">2.0%</text>
   <text x="46" y="231" fill="#0f172a" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="650">CMake</text>
   <rect x="170" y="217" width="500" height="18" rx="9" fill="#f1f5f9"/>
   <rect x="170" y="217" width="7" height="18" rx="9" fill="#DA3434"/>
