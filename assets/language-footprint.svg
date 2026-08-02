@@ -18,11 +18,11 @@
   <text x="46" y="106" fill="#0f172a" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="650">C++</text>
   <rect x="170" y="92" width="500" height="18" rx="9" fill="#f1f5f9"/>
   <rect x="170" y="92" width="264" height="18" rx="9" fill="#f34b7d"/>
-  <text x="690" y="106" text-anchor="end" fill="#475569" font-family="Segoe UI, Arial, sans-serif" font-size="13">52.9%</text>
+  <text x="690" y="106" text-anchor="end" fill="#475569" font-family="Segoe UI, Arial, sans-serif" font-size="13">53.0%</text>
   <text x="46" y="131" fill="#0f172a" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="650">HTML</text>
   <rect x="170" y="117" width="500" height="18" rx="9" fill="#f1f5f9"/>
   <rect x="170" y="117" width="77" height="18" rx="9" fill="#e34c26"/>
-  <text x="690" y="131" text-anchor="end" fill="#475569" font-family="Segoe UI, Arial, sans-serif" font-size="13">15.6%</text>
+  <text x="690" y="131" text-anchor="end" fill="#475569" font-family="Segoe UI, Arial, sans-serif" font-size="13">15.5%</text>
   <text x="46" y="156" fill="#0f172a" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="650">Shell</text>
   <rect x="170" y="142" width="500" height="18" rx="9" fill="#f1f5f9"/>
   <rect x="170" y="142" width="62" height="18" rx="9" fill="#89e051"/>
