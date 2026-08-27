@@ -34,7 +34,7 @@
   <text x="46" y="206" fill="#0f172a" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="650">Rust</text>
   <rect x="170" y="192" width="500" height="18" rx="9" fill="#f1f5f9"/>
   <rect x="170" y="192" width="11" height="18" rx="9" fill="#dea584"/>
-  <text x="690" y="206" text-anchor="end" fill="#475569" font-family="Segoe UI, Arial, sans-serif" font-size="13">2.3%</text>
+  <text x="690" y="206" text-anchor="end" fill="#475569" font-family="Segoe UI, Arial, sans-serif" font-size="13">2.4%</text>
   <text x="46" y="231" fill="#0f172a" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="650">Python</text>
   <rect x="170" y="217" width="500" height="18" rx="9" fill="#f1f5f9"/>
   <rect x="170" y="217" width="8" height="18" rx="9" fill="#3572A5"/>
