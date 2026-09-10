@@ -98,6 +98,14 @@ My current work is less about isolated demos and more about connected engineerin
 - `WinuxCmd`: small native Windows command-line utilities with Linux-style ergonomics.
 - `AstraDB`: a modern C++ Redis-compatible database.
 
+## GitHub Scoreboard
+
+<p align="center">
+  <img src="./assets/scoreboard.svg" alt="GitHub Scoreboard — stars and contributions including the unixwin organization" />
+</p>
+
+Includes organization (`unixwin`) stars and all-time contributions; rank algorithm from [github-readme-stats](https://github.com/anuraghazra/github-readme-stats). Refreshed daily by GitHub Actions.
+
 ## Engineering Snapshot
 
 <p align="center">
