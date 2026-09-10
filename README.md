@@ -9,23 +9,33 @@
   <a href="https://github.com/caomengxuan666?tab=followers">
     <img src="https://img.shields.io/github/followers/caomengxuan666?style=flat&label=Followers&color=22c55e" alt="followers" />
   </a>
-  <a href="https://github.com/caomengxuan666?tab=repositories">
-    <img src="https://img.shields.io/badge/Public%20repos-100%2B-f59e0b?style=flat" alt="public repositories" />
+  <a href="https://github.com/unixwin">
+    <img src="https://img.shields.io/badge/Org-unixwin-111827?style=flat" alt="unixwin org" />
   </a>
-  <a href="https://github.com/caomengxuan666/WinuxCmd">
-    <img src="https://img.shields.io/github/stars/caomengxuan666/WinuxCmd?style=flat&label=WinuxCmd&color=111827" alt="WinuxCmd stars" />
+  <a href="https://github.com/unixwin/WinuxCmd">
+    <img src="https://img.shields.io/github/stars/unixwin/WinuxCmd?style=flat&label=WinuxCmd&color=111827" alt="WinuxCmd stars" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=0F766E&center=true&vCenter=true&width=860&lines=std%3A%3Aprintln(%22Hello%2C+World!%22)%3B;Building+MCP+infra%2C+system+tools%2C+and+Redis-compatible+storage.;If+I+cannot+be+a+poet%2C+I+will+be+the+poem." alt="typing intro" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=0F766E&center=true&vCenter=true&width=860&lines=std%3A%3Aprintln(%22Hello%2C+World!%22)%3B;Building+niubash%3A+a+native+GNU+Bash+runtime+for+Windows.;MCP+infra%2C+Redis-compatible+storage%2C+LLM+middleware.;If+I+cannot+be+a+poet%2C+I+will+be+the+poem." alt="typing intro" />
+</p>
+
+## GitHub Scoreboard
+
+<p align="center">
+  <img src="./assets/scoreboard.svg" alt="GitHub Scoreboard — stars and contributions including the unixwin organization" />
+</p>
+
+<p align="center">
+  <sub>Stars and contributions across <a href="https://github.com/unixwin">unixwin</a> + personal repos · rank algorithm from <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a> · refreshed daily by GitHub Actions</sub>
 </p>
 
 ## Hi, I'm 曹梦轩
 
-Chaohu University CS student. I build systems software in C++ and Rust, with a strong bias toward tools that actually run: MCP infrastructure, Windows/Linux developer experience, Redis-compatible storage, LLM protocol middleware, and performance-oriented command-line utilities.
+Chaohu University CS student. I build systems software in C++ and Rust — currently the maintainer of **niubash**, a native GNU Bash runtime for Windows, and the engineering line around it: the rubash scripting engine, the WinuxCmd command set, the WPM package manager, and the oh-my-niu framework.
 
-My current work is less about isolated demos and more about connected engineering lines: SDKs, gateways, docs, examples, benchmarks, and the tooling around them.
+Beyond the shell, my work spans connected product lines rather than isolated demos: MCP infrastructure with a conformance-tested C++ SDK, Redis-compatible storage engines, LLM protocol middleware, and performance-oriented command-line utilities.
 
 ## Links
 
@@ -44,35 +54,45 @@ My current work is less about isolated demos and more about connected engineerin
   </a>
 </p>
 
-## What I Build
-
-| Direction | Projects | Notes |
-| --- | --- | --- |
-| MCP / AI infrastructure | [cxxmcp](https://github.com/caomengxuan666/cxxmcp), [cxxmcp-gateway](https://github.com/caomengxuan666/cxxmcp-gateway), [cxxmcp-examples](https://github.com/caomengxuan666/cxxmcp-examples), [cmx-blog-mcp](https://github.com/caomengxuan666/cmx-blog-mcp) | C++17 SDK, gateway/runtime tooling, examples, publishing automation. |
-| LLM tooling | [ferryllm](https://github.com/caomengxuan666/ferryllm), [longctx](https://github.com/caomengxuan666/longctx) | Protocol middleware and long-context benchmark tooling. |
-| Windows/Linux DevEx | [WinuxCmd](https://github.com/caomengxuan666/WinuxCmd), [winuxsh](https://github.com/caomengxuan666/winuxsh), [oh-my-winuxsh](https://github.com/caomengxuan666/oh-my-winuxsh) | Native command-line tools, shell experience, cross-platform workflow. |
-| Storage / Redis ecosystem | [AstraDB](https://github.com/caomengxuan666/AstraDB), [AstraKV](https://github.com/caomengxuan666/AstraKV), [resp-cli](https://github.com/caomengxuan666/resp-cli), [Astra](https://github.com/caomengxuan666/Astra) | Redis-compatible database, KV module, protocol client/server experiments. |
-| Distributed systems | [libgossip](https://github.com/caomengxuan666/libgossip), [BTreeX](https://github.com/caomengxuan666/BTreeX) | Gossip protocol, data structures, systems primitives. |
-| Build and code-quality tools | [CMakeHub](https://github.com/caomengxuan666/CMakeHub), [clang-tidy-visualizer](https://github.com/caomengxuan666/clang-tidy-visualizer) | CMake module management and C++ diagnostic visualization. |
-
 ## Featured Work
 
 | Project | Focus | Stack |
 | --- | --- | --- |
-| [WinuxCmd](https://github.com/caomengxuan666/WinuxCmd) | Lightweight native Windows implementation of Linux-style commands. | C++, CMake, PowerShell |
+| [niubash](https://github.com/unixwin/niubash) | Native GNU Bash runtime for Windows, with the rubash engine and WPM package manager. | C, C++, Rust |
+| [WinuxCmd](https://github.com/unixwin/WinuxCmd) | Native Windows implementation of Linux-style commands. | C++, CMake, PowerShell |
 | [cxxmcp](https://github.com/caomengxuan666/cxxmcp) | Conformance-tested C++17 SDK for Model Context Protocol servers and clients. | C++17, CMake, JSON-RPC |
 | [AstraDB](https://github.com/caomengxuan666/AstraDB) | High-performance Redis-compatible database written in modern C++23. | C++23, Redis protocol |
 | [ferryllm](https://github.com/caomengxuan666/ferryllm) | Universal LLM protocol middleware for OpenAI, Anthropic, Claude Code, and compatible backends. | Rust, TypeScript |
 | [libgossip](https://github.com/caomengxuan666/libgossip) | C++17 gossip protocol implementation for decentralized distributed systems. | C++17, networking |
-| [CMakeHub](https://github.com/caomengxuan666/CMakeHub) | CLI for browsing, using, and caching curated CMake modules. | CMake, Python |
 
-## Engineering Highlights
+## What I Build
 
-- Built a visible Windows/Linux developer-tooling line around `WinuxCmd`, `winuxsh`, and `oh-my-winuxsh`.
-- Maintaining an MCP ecosystem in C++: SDK, gateway, examples, documentation, and publishing tools.
-- Exploring Redis-compatible storage from multiple layers: database, KV module, RESP client, and server experiments.
-- Writing LLM infrastructure beyond prompts: protocol middleware, long-context benchmarks, and agent-facing tooling.
-- Comfortable moving between low-level C/C++, Rust services, build systems, shell automation, and editor/workflow tools.
+| Direction | Projects | Notes |
+| --- | --- | --- |
+| Shell & Windows DevEx ([unixwin](https://github.com/unixwin)) | [niubash](https://github.com/unixwin/niubash), [rubash](https://github.com/unixwin/rubash), [WinuxCmd](https://github.com/unixwin/WinuxCmd), [oh-my-niu](https://github.com/unixwin/oh-my-niu), [wpm-source](https://github.com/unixwin/wpm-source), [winuxcmd-i18n](https://github.com/unixwin/winuxcmd-i18n) | Native bash runtime, scripting engine, command set, plugin framework, package manager, zh-CN docs. |
+| MCP / AI infrastructure | [cxxmcp](https://github.com/caomengxuan666/cxxmcp), [cxxmcp-gateway](https://github.com/caomengxuan666/cxxmcp-gateway), [cxxmcp-examples](https://github.com/caomengxuan666/cxxmcp-examples), [cmx-blog-mcp](https://github.com/caomengxuan666/cmx-blog-mcp) | C++17 SDK, gateway/runtime tooling, examples, publishing automation. |
+| LLM tooling | [ferryllm](https://github.com/caomengxuan666/ferryllm), [longctx](https://github.com/caomengxuan666/longctx) | Protocol middleware and long-context benchmark tooling. |
+| Storage / Redis ecosystem | [AstraDB](https://github.com/caomengxuan666/AstraDB), [AstraKV](https://github.com/caomengxuan666/AstraKV), [resp-cli](https://github.com/caomengxuan666/resp-cli), [Astra](https://github.com/caomengxuan666/Astra) | Redis-compatible database, KV module, protocol client/server experiments. |
+| Distributed systems | [libgossip](https://github.com/caomengxuan666/libgossip), [BTreeX](https://github.com/caomengxuan666/BTreeX) | Gossip protocol, data structures, systems primitives. |
+| Build and code-quality tools | [CMakeHub](https://github.com/caomengxuan666/CMakeHub), [clang-tidy-visualizer](https://github.com/caomengxuan666/clang-tidy-visualizer) | CMake module management and C++ diagnostic visualization. |
+
+## Currently Building
+
+- `niubash`: pushing a native Windows GNU Bash runtime toward ZSH-grade ergonomics — own implementation, no ZLE compatibility layer.
+- `cxxmcp`: a conformance-tested C++ SDK for MCP servers and clients, with `cxxmcp-gateway` runtime management around it.
+- `ferryllm`: protocol middleware for LLM providers and OpenAI-compatible backends.
+- `AstraDB`: a modern C++ Redis-compatible database.
+- `oh-my-niu`: packs + plugins framework for the niubash ecosystem.
+
+## Engineering Snapshot
+
+<p align="center">
+  <img src="./assets/engineering-snapshot.svg" alt="Engineering snapshot" />
+</p>
+
+<p align="center">
+  <img src="./assets/language-footprint.svg" alt="Language footprint" />
+</p>
 
 ## Technical Stack
 
@@ -90,31 +110,13 @@ My current work is less about isolated demos and more about connected engineerin
 | Code quality | Conformance tests, benchmark CLIs, clang-tidy tooling, diagnostics visualization, reproducible examples |
 | Workflow | Linux, Windows, Neovim/Lua, VS Code extensions, automation scripts |
 
-## Currently Building
+## Engineering Highlights
 
-- `cxxmcp`: a conformance-tested C++ SDK for MCP servers and clients.
-- `cxxmcp-gateway`: gateway and runtime management tools around the cxxmcp ecosystem.
-- `ferryllm`: protocol middleware for LLM providers and OpenAI-compatible backends.
-- `WinuxCmd`: small native Windows command-line utilities with Linux-style ergonomics.
-- `AstraDB`: a modern C++ Redis-compatible database.
-
-## GitHub Scoreboard
-
-<p align="center">
-  <img src="./assets/scoreboard.svg" alt="GitHub Scoreboard — stars and contributions including the unixwin organization" />
-</p>
-
-Includes organization (`unixwin`) stars and all-time contributions; rank algorithm from [github-readme-stats](https://github.com/anuraghazra/github-readme-stats). Refreshed daily by GitHub Actions.
-
-## Engineering Snapshot
-
-<p align="center">
-  <img src="./assets/engineering-snapshot.svg" alt="Engineering snapshot" />
-</p>
-
-<p align="center">
-  <img src="./assets/language-footprint.svg" alt="Language footprint" />
-</p>
+- Shipping `niubash` end to end: runtime, scripting engine, native command set, package manager, plugin framework, i18n, and distribution via winget / Scoop / WPM.
+- Maintaining an MCP ecosystem in C++: SDK, gateway, examples, documentation, and publishing tools.
+- Exploring Redis-compatible storage from multiple layers: database, KV module, RESP client, and server experiments.
+- Writing LLM infrastructure beyond prompts: protocol middleware, long-context benchmarks, and agent-facing tooling.
+- Comfortable moving between low-level C/C++, Rust services, build systems, shell automation, and editor/workflow tools.
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:0ea5e9,45:22c55e,100:f59e0b" alt="footer" />

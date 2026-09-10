@@ -235,10 +235,10 @@ def icon(kind, x, y, color=BORDER):
 def render_svg(stats, grade, percentile):
     org_line = " + ".join(o for o, _, _ in stats["orgs"]) if stats["orgs"] else "—"
     rows = [
-        ("star", "Total Stars", f'{fmt(stats["stars"]["total"])}', f'own {fmt(stats["stars"]["own"])} + org {fmt(stats["stars"]["org"])}'),
-        ("commit", "Total Commits", fmt(stats["commits"]), "all-time, private included"),
-        ("pr", "Total PRs", fmt(stats["prs"]), "all-time, private included"),
-        ("issue", "Total Issues", fmt(stats["issues"]), "all-time, private included"),
+        ("star", "Total Stars", f'{fmt(stats["stars"]["total"])}', f'own {fmt(stats["stars"]["own"])} · org {fmt(stats["stars"]["org"])}'),
+        ("commit", "Total Commits", fmt(stats["commits"]), "all-time · incl. private"),
+        ("pr", "Total PRs", fmt(stats["prs"]), "all-time · incl. private"),
+        ("issue", "Total Issues", fmt(stats["issues"]), "all-time · incl. private"),
         ("follower", "Followers", fmt(stats["followers"]), ""),
         ("org", "Org Repos", fmt(stats["repos"]["org"]), esc(org_line)),
     ]
@@ -248,6 +248,7 @@ def render_svg(stats, grade, percentile):
     height = pad_top + len(rows) * row_h + 14
     width = 500
 
+    # 列位: 图标 26 | 标签 50 | 补充说明 168 | 数值右对齐 356（右侧留出徽章圆环）
     row_svg = []
     for i, (ic, label, value, extra) in enumerate(rows):
         y = pad_top + i * row_h
@@ -255,8 +256,8 @@ def render_svg(stats, grade, percentile):
         parts = [icon(ic, 26, y)]
         parts.append(f'<text x="50" y="{text_y}" fill="{TEXT}" font-size="14">{label}</text>')
         if extra:
-            parts.append(f'<text x="118" y="{text_y}" fill="{SUBTLE}" font-size="11">{extra}</text>')
-        parts.append(f'<text x="{width - 130}" y="{text_y}" fill="{VALUE}" font-size="14" font-weight="600" text-anchor="end">{value}</text>')
+            parts.append(f'<text x="168" y="{text_y}" fill="{SUBTLE}" font-size="10.5">{extra}</text>')
+        parts.append(f'<text x="356" y="{text_y}" fill="{VALUE}" font-size="14" font-weight="600" text-anchor="end">{value}</text>')
         row_svg.append("".join(parts))
 
     ring_r = 46
